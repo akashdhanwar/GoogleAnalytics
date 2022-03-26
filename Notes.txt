@@ -3,7 +3,7 @@ IF YOU CANT MEASURE IT, YOU CANNOT IMPROVE IT
 Analytics Help - https://support.google.com/analytics/?hl=en#topic=10737980
 Analytics Demo Account - https://support.google.com/analytics/answer/6367342?hl=en#zippy=%2Cin-this-article
 
-Greate a GA-4, Universal property. Universal property is mandate for Views
+Create a GA-4, Universal property. Universal property is mandate for Views
 SiteKit is a plugin of google for support of GA4 integration to WordPress websites
 
 
@@ -18,6 +18,18 @@ Each period of activity is called session, and is ended by 30 minutes of inactiv
 
 *Properties represent your website or app, max 50 properties, max 25 views
 Recommended Views by GA - Raw, Test and Master. All Website Data is the default view created by GA
-*Filters are used to filter the data
+*Filters are used to filter the data.
+Filter requires upto 24 hrs to apply after adding
+Filter order does matters
+Filters are destructive, if a filter excludes data from a view then it cannot be recovered for that view
+Filters cannot be applied retroactively
+Common filters -    Exclude internal traffic(Self and local people exclude by IP address)
+                    Filter domain referrals(Reduce spam traffic, excludes traffic from a referred domain)
+                    Filter on Geography
+                    Search and replace filters(replace urls/ids to understandable word)
+*Goals measures how well your website fulfills your target objective
 
+
+
+                    14:00
 
