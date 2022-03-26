@@ -6,9 +6,6 @@ Analytics Demo Account - https://support.google.com/analytics/answer/6367342?hl=
 Greate a GA-4, Universal property. Universal property is mandate for Views
 SiteKit is a plugin of google for support of GA4 integration to WordPress websites
 
-*Properties represent your website or app, max 50 properties, max 25 views
-Recommended Views by GA - Raw, Test and Master. All Website Data is the default view created by GA
-*Filters are used to filter the data
 
 SETUP-
 Go to tracking code, add the script to index.html inside head tag
@@ -17,5 +14,10 @@ Test for the working of integration that user is online or not
 HOW IT WORKS-
 GA uses browser cookie to generate a random id to distinguish between new and returning visitors and tie all the activity of a visitor into a single visit
 Each period of activity is called session, and is ended by 30 minutes of inactivity or when user closes browser window	
+
+
+*Properties represent your website or app, max 50 properties, max 25 views
+Recommended Views by GA - Raw, Test and Master. All Website Data is the default view created by GA
+*Filters are used to filter the data
 
 
