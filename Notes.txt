@@ -2,4 +2,9 @@ Analytics Help - https://support.google.com/analytics/?hl=en#topic=10737980
 Analytics Demo Account - https://support.google.com/analytics/answer/6367342?hl=en#zippy=%2Cin-this-article
 
 Greate a GA-4, Universal property. Universal property is mandate for Views
-Go to tracking code, 
+
+SETUP-
+Go to tracking code, add the script to index.html inside head tag
+Test for the working of integration that user is online or not
+
+
