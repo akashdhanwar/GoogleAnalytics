@@ -32,6 +32,8 @@ Common filters -    Exclude internal traffic(Self and local people exclude by IP
 Funnel Visualization, Goal Flow Report is in Goals
 Goals are limited to 20 per View
 
+...
+
 
 
 
