@@ -18,6 +18,7 @@ Each period of activity is called session, and is ended by 30 minutes of inactiv
 
 *Properties represent your website or app, max 50 properties, max 25 views
 Recommended Views by GA - Raw, Test and Master. All Website Data is the default view created by GA
+For getting age and gender, enable it in properties
 *Filters are used to filter the data.
 Filter requires upto 24 hrs to apply after adding
 Filter order does matters
@@ -28,8 +29,11 @@ Common filters -    Exclude internal traffic(Self and local people exclude by IP
                     Filter on Geography
                     Search and replace filters(replace urls/ids to understandable word)
 *Goals measures how well your website fulfills your target objective
+Funnel Visualization, Goal Flow Report is in Goals
+Goals are limited to 20 per View
 
 
 
-                    14:00
+
+                    
 
